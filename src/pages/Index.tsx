@@ -37,7 +37,7 @@ export default function Index() {
           <div
             className="hero-img"
             style={{
-              backgroundImage: `url("https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/files/8e238f54-3bb9-4540-ac6f-38e0b55484ac.jpg")`,
+              backgroundImage: `url("https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/bucket/4cd240e8-d291-4cf7-8a2a-9245077d5ce0.png")`,
             }}
           >
             <div className="sticker">
@@ -78,8 +78,8 @@ export default function Index() {
             <div className="menu-card">
               <span className="menu-tag">Хит продаж</span>
               <img
-                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/files/8e238f54-3bb9-4540-ac6f-38e0b55484ac.jpg"
-                alt="Классический букет"
+                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/bucket/a8f51314-85bf-4a86-9a69-5f494429a232.png"
+                alt="Шоколадные розы"
               />
               <div className="menu-card-body">
                 <div
@@ -90,11 +90,11 @@ export default function Index() {
                     marginBottom: "10px",
                   }}
                 >
-                  <h3>Классика</h3>
+                  <h3>Розы из шоколада</h3>
                   <span className="price">1 900 ₽</span>
                 </div>
                 <p style={{ fontSize: "14px", color: "#666" }}>
-                  25 ягод клубники в тёмном и белом шоколаде, оформление в крафтовой упаковке.
+                  25 шоколадных роз из тёмного и розового шоколада в крафтовой упаковке.
                 </p>
               </div>
             </div>
@@ -105,8 +105,8 @@ export default function Index() {
                 Романтика
               </span>
               <img
-                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/files/c1c821dd-547c-44d7-803a-f67bae95e51e.jpg"
-                alt="Шоколадный люкс"
+                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/bucket/58147bbf-2813-4b10-8409-c32f1b106ffc.png"
+                alt="Нежный букет"
               />
               <div className="menu-card-body">
                 <div
@@ -117,11 +117,11 @@ export default function Index() {
                     marginBottom: "10px",
                   }}
                 >
-                  <h3>Шоколадный Люкс</h3>
-                  <span className="price">3 200 ₽</span>
+                  <h3>Нежность</h3>
+                  <span className="price">2 500 ₽</span>
                 </div>
                 <p style={{ fontSize: "14px", color: "#666" }}>
-                  Клубника в бельгийском шоколаде, шоколадные розы, топпинги и декор.
+                  Розы из белого и розового шоколада с белым бантом — нежно и изысканно.
                 </p>
               </div>
             </div>
@@ -132,8 +132,8 @@ export default function Index() {
                 Популярное
               </span>
               <img
-                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/files/b18351fb-42cf-481a-b7a7-b5112c46ca78.jpg"
-                alt="Шоколадные цветы"
+                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/bucket/4cd240e8-d291-4cf7-8a2a-9245077d5ce0.png"
+                alt="Клубника в шоколаде"
               />
               <div className="menu-card-body">
                 <div
@@ -144,11 +144,11 @@ export default function Index() {
                     marginBottom: "10px",
                   }}
                 >
-                  <h3>Шоколадные Цветы</h3>
-                  <span className="price">2 500 ₽</span>
+                  <h3>Клубника в шоколаде</h3>
+                  <span className="price">3 200 ₽</span>
                 </div>
                 <p style={{ fontSize: "14px", color: "#666" }}>
-                  Авторские цветы из тёмного и молочного шоколада — выглядят как настоящие.
+                  Свежая клубника в молочном, тёмном и розовом шоколаде с топпингами.
                 </p>
               </div>
             </div>
@@ -175,26 +175,26 @@ export default function Index() {
           <div className="social-grid">
             <div className="social-item">
               <img
-                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/files/8e238f54-3bb9-4540-ac6f-38e0b55484ac.jpg"
-                alt="Фото 1"
+                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/bucket/a8f51314-85bf-4a86-9a69-5f494429a232.png"
+                alt="Шоколадные розы"
               />
             </div>
             <div className="social-item">
               <img
-                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/files/c1c821dd-547c-44d7-803a-f67bae95e51e.jpg"
-                alt="Фото 2"
+                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/bucket/58147bbf-2813-4b10-8409-c32f1b106ffc.png"
+                alt="Нежный букет"
               />
             </div>
             <div className="social-item">
               <img
-                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/files/b18351fb-42cf-481a-b7a7-b5112c46ca78.jpg"
-                alt="Фото 3"
+                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/bucket/4cd240e8-d291-4cf7-8a2a-9245077d5ce0.png"
+                alt="Клубника в шоколаде"
               />
             </div>
             <div className="social-item">
               <img
-                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/files/8e238f54-3bb9-4540-ac6f-38e0b55484ac.jpg"
-                alt="Фото 4"
+                src="https://cdn.poehali.dev/projects/2b65b2b6-923c-4466-95c0-ee36c7b341e5/bucket/a8f51314-85bf-4a86-9a69-5f494429a232.png"
+                alt="Букет из роз"
               />
             </div>
           </div>
